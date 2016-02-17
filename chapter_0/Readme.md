@@ -2,7 +2,7 @@
 ###(113796119_chapter_0_master) Jerin Hiatt
 ###Jhis-MacBook-Pro:lrthw_excercises $ ruby -v
 ###ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin14]
-
+>
 ###(113796119_chapter_0_master) Jerin Hiatt
 ###Jhis-MacBook-Pro:lrthw_excercises $ ls
 ###Gemfile      Gemfile.lock Guardfile    Readme.md    chapter_0
