@@ -1,4 +1,4 @@
-puts 'I will noe count my chickens'
+puts 'I will now count my chickens'
 # Simple puts statment
 puts "Hens #{25 + 30 / 6}"
 puts 'Now I will count the eggs;'

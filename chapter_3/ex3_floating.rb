@@ -1,4 +1,4 @@
-puts 'I will noe count my chickens'
+puts 'I will now count my chickens'
 
 puts "Hens #{25.0 + 30 / 6}"
 puts 'Now I will count the eggs;'
