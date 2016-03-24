@@ -5,10 +5,11 @@
 >#2
 
 ```
+x = "There are #{types_of_people} types of people."
 y = "Those who know #{binary} and those who #{do_not}."
 puts "I said: #{x}."
 puts "I also said: '#{y}'."
-joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
+
 ```
 
 >#3
